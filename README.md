@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?color=_custom_gradient&height=300&section=header&text=Jung%20A%20Lim&fontSize=90&color=0:EEFF00,100:a82da8)
+![header](https://capsule-render.vercel.app/api?color=_hexcode&height=300&section=header&text=Jung%20A%20Lim&fontSize=90)
 
 
 Hello, my name is Jung A Lim.

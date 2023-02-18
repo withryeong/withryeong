@@ -1,3 +1,8 @@
+![header](https://capsule-render.vercel.app/api?color=gradient&height=200&customColorList=0,9,2,5,30)
+
+# Jung A Lim
+Hello, my name is Jung A Lim.
+
 ### Hi there 👋
 
 <!--
